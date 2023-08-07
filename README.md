@@ -28,4 +28,4 @@ Python permite que los desarrolladores sean más productivos, ya que pueden escr
 
 ### Descripción de lo que se está simulando
 
-El presente programa toma los datos de una población dada (del tipo cuantitativa) mediante la lectura de un archivo tipo CSV, para después realizar todas las muestras posibles de tamaño n=2, 3, 4, 5 a elección del usuario
+El presente programa toma los datos de una población dada (del tipo cuantitativa) mediante la lectura de un archivo tipo CSV, para después realizar todas las muestras posibles de tamaño n=2, 3, 4, 5 a elección del usuario como se muestra en la siguiente figura:
