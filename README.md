@@ -26,6 +26,22 @@ Se utilizó el lenguaje de programación **Python**, aunque se pretende en un fu
 
 Python permite que los desarrolladores sean más productivos, ya que pueden escribir un programa de Python con menos líneas de código en comparación con muchos otros lenguajes. Python cuenta con una gran biblioteca estándar que contiene códigos reutilizables para casi cualquier tarea.
 
-### Descripción de lo que se está simulando
+### Descripción de lo que se está simulando, ejemplo básico de su funcionamiento en general e instrucciones de uso
 
 El presente programa toma los datos de una población dada (del tipo cuantitativa) mediante la lectura de un archivo tipo CSV, para después realizar todas las muestras posibles de tamaño n=2, 3, 4, 5 a elección del usuario como se muestra en la siguiente figura:
+
+![](https://github.com/temocbzc/Sampling_Distribution_in_Python/blob/main/Img%201.JPG)
+
+Como se puede observar en la anterior figura, las muestras realizadas se pueden guardar en un archivo tipo CSV para otro tratamiento que pueda realizar el alumno, o bien calcular las medias muestras de cada una de las muestras y graficar su distribución:
+
+![](https://github.com/temocbzc/Sampling_Distribution_in_Python/blob/main/Img%202.JPG)
+
+El programa como se puede observar en las figuras anteriores, es una aplicación con ventanas, por lo cual su funcionamiento es muy intuitivo y por el momento no se necesitaria un instructivo de uso.
+
+### Tema que ayuda a comprender
+
+Distribuciones Muestrales
+
+### Justificación de cómo ayuda al alumno a comprender el tema
+
+Como se menciono en apartados anteriores, la justificación de realizar un programa en Python es la falta de un software que realice todas las muestras posibles de una población dada. Por lo anterior es importante tener herramientas de este estilo para que el alumno pueda aprender a realizar distribuciones muestrales. Este software desarrollado se puede escalar a realizar muestras de tamaño más grandes y para encontrar espacios muestrales de experimentos con muestreos con reemplazo y repetitivos (diagramas de árbol).
