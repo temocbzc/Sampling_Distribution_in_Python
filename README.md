@@ -45,3 +45,5 @@ Distribuciones Muestrales
 ### Justificación de cómo ayuda al alumno a comprender el tema
 
 Como se menciono en apartados anteriores, la justificación de realizar un programa en Python es la falta de un software que realice todas las muestras posibles de una población dada. Por lo anterior es importante tener herramientas de este estilo para que el alumno pueda aprender a realizar distribuciones muestrales. Este software desarrollado se puede escalar a realizar muestras de tamaño más grandes y para encontrar espacios muestrales de experimentos con muestreos con reemplazo y repetitivos (diagramas de árbol).
+
+Si estas en la disposición de ayudar a mejorar el codigo de programación o bien a sugerir opciones de adición al programa, estas cordialmente invitado a realizarlo y así poder contar con una herramienta más robusta para la enseñanza de la Estadística y Probabilidad, que puede ser utilizado en otras escuelas de bachillerato o incluso a nivel superior.
